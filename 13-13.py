@@ -1,0 +1,6 @@
+m=input ("Digite um nome")
+print ("Analisando seu nome...")
+print (f"Seu nome tudo em maiúsculas fica ", m.upper() )
+print (f" seu nome todo em minúsculas fica ",m.lower())
+print (f" Seu nome tem ",len(m))
+print (f"O seu primeiro nome é",m.split () [0])
